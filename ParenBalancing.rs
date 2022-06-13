@@ -72,8 +72,6 @@ pub fn matching_parentheses(InputString: &str) -> bool {
 }
 
 
-
-
 //driver 
 
 fn main() {
@@ -99,8 +97,5 @@ fn main() {
 		
 		println! ("Output: false"); 
 		
-	} 
-		
-	
-	
+	} 	
 }
